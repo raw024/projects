@@ -1,0 +1,10 @@
+from bcpu import *
+
+power = """
+
+
+
+
+
+
+"""
